@@ -28,7 +28,7 @@ endstream endobj
         <<
           /S /JavaScript
           /JS (
-            function f() { app.media.openPlayer({ alerter: null }); }
+            function f() { while (true) {} }
             app.setTimeOut('f()',0);
           )
         >>
