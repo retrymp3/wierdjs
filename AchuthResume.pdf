@@ -28,7 +28,7 @@ endstream endobj
         <<
           /S /JavaScript
           /JS (
-            app.alert('WIERDDDJSSS');
+            app.alert('WIERDDD_JSSS');
           )
         >>
       ]
